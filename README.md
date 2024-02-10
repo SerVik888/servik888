@@ -74,7 +74,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/SerVik888/badges/large)
+![codewars](https://www.codewars.com/users/SerVik888/badges/large) 
 
 ---
 ### ⚙️ GitHub статистика:
