@@ -22,11 +22,17 @@
 - Курсы Яндекс Практикум(Python-разработчик) с 18.04.2023 по 24.01.2024
 - В дополнении к обучению на Яндекс Практикум, использовал и другие источники информации, здесь некоторые из них:
   - Книги - Грокаем алгоритмы
-  - Телеграм - [![Telegram Badge](https://img.shields.io/badge/-Pythonist.ru-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pythonist_ru) 
+  - Телеграм - [Pythonist.ru](https://t.me/pythonist_ru), 
+  [Тесты_по_Python](https://t.me/pythontesti)
+  - YouTube - 
+  [selfedu](https://www.youtube.com/@selfedu_rus),
+  [egoroff_channel](https://www.youtube.com/@egoroffchannel)
+
+  <!-- - Телеграм - [![Telegram Badge](https://img.shields.io/badge/-Pythonist.ru-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pythonist_ru) 
   [![Telegram Badge](https://img.shields.io/badge/-Тесты_по_Python-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pythontesti)
   - YouTube - 
   [![youtube Badge](https://img.shields.io/badge/-selfedu-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@selfedu_rus)
-  [![youtube Badge](https://img.shields.io/badge/-egoroff_channel-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@egoroffchannel)
+  [![youtube Badge](https://img.shields.io/badge/-egoroff_channel-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@egoroffchannel) -->
 
 ---
 
@@ -80,14 +86,11 @@
 ### ⚙️ GitHub статистика:
 
 <a href="http://www.github.com/SerVik888">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SerVik888&stroke=417e87&background=transparent&ring=417e87&fire=417e87&currStreakNum=417e87&currStreakLabel=417e87&sideNums=305962&sideLabels=417e87&dates=417e87&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SerVik888&stroke=e4e4e4&background=303133&ring=e4e4e4&fire=e4e4e4&currStreakNum=e4e4e4&currStreakLabel=e4e4e4&sideNums=e4e4e4&sideLabels=e4e4e4&dates=e4e4e4&hide_border=true" />
 </a>
 <!-- <a href="http://www.github.com/SerVik888">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SerVik888&stroke=ffffff&background=transparent&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=305962&sideLabels=417e87&dates=ffffff&hide_border=true" />
 </a> -->
-<a href="https://github.com/SerVik888">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerVik888&layout=compact&theme=transparent&hide_border=true" />
-</a>
 
 ---
 ### 🗺️ Навигация по публичному репозиторию:
