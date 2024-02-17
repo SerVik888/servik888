@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css">
-
 ### Привет, меня зовут Сегрей! 👋
 ---
 ### ⚡ О себе:
@@ -30,13 +28,6 @@
   - YouTube - 
   [selfedu](https://www.youtube.com/@selfedu_rus),
   [egoroff_channel](https://www.youtube.com/@egoroffchannel)
-
-  <!-- - Телеграм - [![Telegram Badge](https://img.shields.io/badge/-Pythonist.ru-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pythonist_ru) 
-  [![Telegram Badge](https://img.shields.io/badge/-Тесты_по_Python-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pythontesti)
-  - YouTube - 
-  [![youtube Badge](https://img.shields.io/badge/-selfedu-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@selfedu_rus)
-  [![youtube Badge](https://img.shields.io/badge/-egoroff_channel-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@egoroffchannel) -->
-
 ---
 
 ### 💻 Технологии:
@@ -91,101 +82,25 @@
 <a href="http://www.github.com/SerVik888">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SerVik888&stroke=e4e4e4&background=303133&ring=e4e4e4&fire=e4e4e4&currStreakNum=e4e4e4&currStreakLabel=e4e4e4&sideNums=e4e4e4&sideLabels=e4e4e4&dates=e4e4e4&hide_border=true" />
 </a>
-<!-- <a href="http://www.github.com/SerVik888">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SerVik888&stroke=ffffff&background=transparent&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=305962&sideLabels=417e87&dates=ffffff&hide_border=true" />
-</a> -->
 
 ---
 ### 🗺️ Навигация по публичному репозиторию:
-<div class='flex'>
-  <div>
-    <ul>
-      <h4>Проекты</h4>
-      <li>
-        <a href="https://github.com/SerVik888/foodgram-project-react">
-          Foodgram(Django, React)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/kittygram">
-          Кittygram(Django, React)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/taski-docker">
-          Трекер задач(Django, React)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/api_final_yatube">
-          API для Yatube(Django)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/django_blogicum">
-          Блог - full-stack приложение(Django)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/api_yamdb">
-          Платформа для сбора отзывов на произведения(backend, Django)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/homework_bot">
-          Телеграм-бот для проверки статуса выполнения задачи(python-telegram-bot)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/django_testing">
-          Реализация тестов для приложений(Django, Pytest, Unittest)
-        </a>
-      </li>
-    </ul>
-  </div>
-  <div>
-    <ul>
-      <h4>Тестовые FrontEnd</h4>
-      <li>
-        <a href="https://github.com/SerVik888/react-redux-users-posts">
-          Карточки с данными пользователей и постов(React, Redux)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/react-currency-rate">
-          Курс валюты(React)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/react-json-server-users-list">
-          Таблица с данными(React)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/react-redux-table-test">
-          Таблица с данными(React, Redux)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/smart-table-test">
-          Таблица с данными(React, Redux)
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/SerVik888/react-test">
-          Реализация компоненты(React)
-        </a>
-      </li>
-    </ul>
-  </div>
-  <div>
-    <ul>
-      <h4>Другие</h4>
-      <li>
-        <a href="https://github.com/SerVik888/react-webinar-2">
-          Стажировка(React, Redux)
-        </a>
-      </li>
-    </ul>
-  </div>
-</div>
+#### Проекты
+- [Foodgram(Django, React)](https://github.com/SerVik888/foodgram-project-react)
+- [Кittygram(Django, React)](https://github.com/SerVik888/kittygram)
+- [Трекер задач(Django, React)](https://github.com/SerVik888/taski-docker)
+- [API для Yatube(Django)](https://github.com/SerVik888/api_final_yatube)
+- [Блог - full-stack приложение(Django)](https://github.com/SerVik888/django_blogicum)
+- [Платформа для сбора отзывов на произведения(backend, Django)](https://github.com/SerVik888/api_yamdb)
+- [Телеграм-бот для проверки статуса выполнения задачи(python-telegram-bot)](https://github.com/SerVik888/homework_bot)
+- [Реализация тестов для приложений(Django, Pytest, Unittest)](https://github.com/SerVik888/django_testing)
+#### Тестовые задания - FrontEnd
+- [Карточки с данными пользователей и постов(React, Redux)](https://github.com/SerVik888/react-redux-users-posts)
+- [Курс валюты(React)](https://github.com/SerVik888/react-currency-rate)
+- [Таблица с данными(React)](https://github.com/SerVik888/react-json-server-users-list)
+- [Таблица с данными(React, Redux)](https://github.com/SerVik888/react-redux-table-test)
+- [Таблица с данными(React, Redux)](https://github.com/SerVik888/smart-table-test)
+- [Реализация компоненты(React)](https://github.com/SerVik888/react-test)
+#### Другие
+- [Стажировка(React, Redux)](https://github.com/SerVik888/react-webinar-2)
+- [Моя страница на GitHub](https://github.com/SerVik888/servik888)
