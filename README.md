@@ -80,8 +80,11 @@
 ### ⚙️ GitHub статистика:
 
 <a href="http://www.github.com/SerVik888">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SerVik888&stroke=ffffff&background=transparent&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SerVik888&stroke=417e87&background=transparent&ring=417e87&fire=417e87&currStreakNum=417e87&currStreakLabel=417e87&sideNums=305962&sideLabels=417e87&dates=417e87&hide_border=true" />
 </a>
+<!-- <a href="http://www.github.com/SerVik888">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SerVik888&stroke=ffffff&background=transparent&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=305962&sideLabels=417e87&dates=ffffff&hide_border=true" />
+</a> -->
 <a href="https://github.com/SerVik888">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerVik888&layout=compact&theme=transparent&hide_border=true" />
 </a>
