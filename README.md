@@ -26,6 +26,7 @@
   - Телеграм - [Pythonist.ru](https://t.me/pythonist_ru), 
   [Тесты_по_Python](https://t.me/pythontesti)
   - YouTube - 
+  [Ulbi TV](https://www.youtube.com/@UlbiTV),
   [selfedu](https://www.youtube.com/@selfedu_rus),
   [egoroff_channel](https://www.youtube.com/@egoroffchannel)
 ---
@@ -87,13 +88,13 @@
 ### 🗺️ Навигация по публичному репозиторию:
 #### Проекты
 - [Foodgram(Django, React)](https://github.com/SerVik888/foodgram-project-react)
-- [Кittygram(Django, React)](https://github.com/SerVik888/kittygram)
-- [Трекер задач(Django, React)](https://github.com/SerVik888/taski-docker)
 - [API для Yatube(Django)](https://github.com/SerVik888/api_final_yatube)
 - [Блог - full-stack приложение(Django)](https://github.com/SerVik888/django_blogicum)
 - [Платформа для сбора отзывов на произведения(backend, Django)](https://github.com/SerVik888/api_yamdb)
 - [Телеграм-бот для проверки статуса выполнения задачи(python-telegram-bot)](https://github.com/SerVik888/homework_bot)
 - [Реализация тестов для приложений(Django, Pytest, Unittest)](https://github.com/SerVik888/django_testing)
+- [Кittygram(Django, React)](https://github.com/SerVik888/kittygram)
+- [Трекер задач(Django, React)](https://github.com/SerVik888/taski-docker)
 #### Тестовые задания - FrontEnd
 - [Карточки с данными пользователей и постов(React, Redux)](https://github.com/SerVik888/react-redux-users-posts)
 - [Курс валюты(React)](https://github.com/SerVik888/react-currency-rate)
