@@ -10,11 +10,6 @@
 Нахожусь в поиске работы, **готов к переезду**.
 
 ---
-### 🤝 Контакты: 
-[![Telegram Badge](https://img.shields.io/badge/-SafonovSergey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sergey_Safonow) 
-[![Mail Badge](https://img.shields.io/badge/-Mail-005FF9?style=flat&logo=mail.ru&logoColor=white)](mailto:sergey_safonov86@inbox.ru)
-
----
 
 
 
