@@ -64,7 +64,7 @@
 </a>
 
 ---
-### 🗺️ Навигация по репозиторию:
+### 🗺️ Навигация по публичному репозиторию:
 #### Проекты
 - [Foodgram(Django, React)](https://github.com/SerVik888/foodgram-project-react)
 - [API для Yatube(Django)](https://github.com/SerVik888/api_final_yatube)
